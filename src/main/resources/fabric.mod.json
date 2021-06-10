@@ -3,7 +3,7 @@
 	"id": "gimme_bundles",
 	"version": "${version}",
 	"name": "Gimme bundles!",
-	"description": "Enable the use of the experimental bundles.",
+	"description": "Enables the use of the experimental bundles.",
 	"authors": [
 		"Fulmineo"
 	],
